@@ -1,0 +1,31 @@
+FirstName: "Alice"
+LastName: "Johnson"
+PhoneNumber: "6043210987"
+Address: "789 King Street"
+City: "Calgary"
+Province: "AB"
+PostalCode: "T1A2B3"
+CreditCardNumber: "6011514433546201"
+CreditCardExpiry: "02/2023"
+CreditCardCVV: "789"
+
+Visa:
+
+Card number: "4242424242424242"
+Expiry: "08/2025"
+CVV: "123"
+MasterCard:
+
+Card number: "5555555555554444"
+Expiry: "11/2024"
+CVV: "123"
+American Express:
+
+Card number: "378282246310005"
+Expiry: "02/2023"
+CVV: "1234"
+Discover:
+
+Card number: "6011514433546201"
+Expiry: "12/2023"
+CVV: "789"

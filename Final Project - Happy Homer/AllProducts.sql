@@ -1,0 +1,26 @@
+USE [TheHappyHomerDB2]
+GO
+SET IDENTITY_INSERT [dbo].[Products] ON 
+GO
+INSERT [dbo].[Products] ([Id], [ProductName], [ProductDescription], [VisibleToCustomer], [ProductPrice], [PicturePath]) VALUES (5, N'The Simpsons Smoke Stack - A CBD Donut Tower', N'Looking for a way to take your CBD donut experience to the next level? Try our "Simpsons Smoke Stack" - a towering stack of CBD donuts that will make you feel like you''re on top of the world. With flavors like "Marge''s Blueberry Blast" and "Bart''s Butterfinger", you''ll be in donut heaven.', 1, CAST(19.99 AS Decimal(18, 2)), N'SimpsonsSmokeStack.png')
+GO
+INSERT [dbo].[Products] ([Id], [ProductName], [ProductDescription], [VisibleToCustomer], [ProductPrice], [PicturePath]) VALUES (6, N'Krusty Brand Kwik-E-Joint - CBD Donut Holes', N'Need a quick pick-me-up? Our Krusty Brand "Kwik-E-Joint" CBD donut holes are the perfect way to get your chill on. With flavors like "Sideshow Bob''s Sour Apple" and "Krusty''s Kreamy Kustard", you''ll be feeling like a kid again. So come on down to our dispensary and grab a box today!', 1, CAST(4.99 AS Decimal(18, 2)), N'KrustyKwikEJoint.png')
+GO
+INSERT [dbo].[Products] ([Id], [ProductName], [ProductDescription], [VisibleToCustomer], [ProductPrice], [PicturePath]) VALUES (7, N'The Monty Burns Mega Mix - A CBD Gummy Assortment', N'Looking for a way to get your daily dose of CBD in a delicious and fun way? Try our "Monty Burns Mega Mix" - a CBD gummy assortment that will make you feel like a millionaire. With flavors like "Smithers'' Sour Lemon" and "Burns'' Butterscotch", you''ll be feeling relaxed and happy in no time.', 0, CAST(24.99 AS Decimal(18, 2)), N'MontyBurnsMegaMix.png')
+GO
+INSERT [dbo].[Products] ([Id], [ProductName], [ProductDescription], [VisibleToCustomer], [ProductPrice], [PicturePath]) VALUES (8, N'Juicy Joint Juice Box', N'Feeling parched? Quench your thirst and get your CBD fix with our Juicy Joint Juice Box. Each box contains 10mg of CBD and comes in flavors like "Lemon Haze" and "Mango Kush". Stay hydrated and relaxed all day long.', 0, CAST(3.99 AS Decimal(18, 2)), N'juicebox.png')
+GO
+INSERT [dbo].[Products] ([Id], [ProductName], [ProductDescription], [VisibleToCustomer], [ProductPrice], [PicturePath]) VALUES (9, N'Smooth Operator CBD Lotion', N'Treat your skin to the smoothest ride of its life with our Smooth Operator CBD Lotion. Made with organic hemp oil and shea butter, this lotion will leave your skin feeling soft, supple, and deeply hydrated. Perfect for after-sun care or as a daily moisturizer.', 0, CAST(14.99 AS Decimal(18, 2)), N'lotion.png')
+GO
+INSERT [dbo].[Products] ([Id], [ProductName], [ProductDescription], [VisibleToCustomer], [ProductPrice], [PicturePath]) VALUES (10, N'Toe-Tally Chilled CBD Lotion', N'Do not let your toes get left out of the relaxation game. Our Toe-Tally Chilled CBD Lotion is designed to soothe and moisturize your tired, achy feet. With cooling menthol and a blend of essential oils, this lotion will leave your feet feeling refreshed and invigorated.', 0, CAST(12.99 AS Decimal(18, 2)), N'toelotion.png')
+GO
+INSERT [dbo].[Products] ([Id], [ProductName], [ProductDescription], [VisibleToCustomer], [ProductPrice], [PicturePath]) VALUES (11, N'Beard Balms Big Buzz', N'Attention all bearded brethren: Our Beard Balms Big Buzz is the perfect way to keep your facial hair looking and feeling its best. Made with a blend of organic oils and beeswax, this balm will keep your beard soft, shiny, and manageable. With 50mg of CBD per tin, youll feel as good as you look.', 0, CAST(17.99 AS Decimal(18, 2)), N'beardbalm.png')
+GO
+INSERT [dbo].[Products] ([Id], [ProductName], [ProductDescription], [VisibleToCustomer], [ProductPrice], [PicturePath]) VALUES (12, N'Slick and Chill Deodorant', N'Say goodbye to harsh chemicals and hello to all-natural freshness with our Slick and Chill CBD Deodorant. Made with organic coconut oil, arrowroot powder, and a blend of essential oils, this deodorant will keep you feeling cool and confident all day long. With 25mg of CBD per stick, youll be as relaxed as you are fresh.', 0, CAST(9.99 AS Decimal(18, 2)), N'deodorant.png')
+GO
+INSERT [dbo].[Products] ([Id], [ProductName], [ProductDescription], [VisibleToCustomer], [ProductPrice], [PicturePath]) VALUES (13, N'CBD Gummy Worms with a Canadian Twist', N'Eh, buddy! We''ve got some sweet and sour CBD gummy worms for you to munch on, eh? Our gummies are made with real Canadian maple syrup and are the perfect way to get your chill on. Whether you''re watching hockey or taking a walk in the great outdoors, our gummies will make you feel like you''re on top of the world, eh?', 1, CAST(14.99 AS Decimal(18, 2)), N'CBDGummyWorms.png')
+GO
+INSERT [dbo].[Products] ([Id], [ProductName], [ProductDescription], [VisibleToCustomer], [ProductPrice], [PicturePath]) VALUES (14, N'Simpsons Doobie Dozen CBD Donuts', N'Are you feeling d''oh-zy and want to mellow out? Our CBD donuts are the perfect way to get your daily dose of chill. With flavors like "Homer''s Pink Donut", "Flanders'' Fruity Pebbles", and "Krusty''s Creamy Delight", you''ll feel like you''re living in a Springfield dream.', 1, CAST(9.99 AS Decimal(18, 2)), N'SimpsonsDoobieDozen.png')
+GO
+SET IDENTITY_INSERT [dbo].[Products] OFF
+GO
