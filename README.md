@@ -20,24 +20,3 @@ This was the project for my ITEC 245 final. What is on GitHub if cloned would ha
 I took the time to create, and edit a video with Kdenlive to demo the project. Basic functionality is covered in less than 10 mins at a non-technical level.
 
 [YT Project Demo Here](https://youtu.be/f9pPbKPn038)
-
-# Technologies Used
-
-![icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg)
-
-![icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
-
-![icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg)
-
-![icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)
-
-![icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg)
-
-![icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg)
-
-
-![icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg)
-
-![icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg)
-
-![icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg)
